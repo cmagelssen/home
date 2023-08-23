@@ -1,0 +1,17 @@
+---
+title: "CV"
+---
+
+## **Utdanning**
+
+2016-2017. Mastergrad i psykologi og kognitiv nevrovitenskap. Universitet i Glasgow
+
+2010-2012. Mastergrad i idrettsvitenskap med spesialisering i idrettspsykologi. Norges idrettshøgskole
+
+2008-2010. Bachelorgrad i idrettsvitenskap med spesialisering i trenerrollen. Norges idrettshøgskole
+
+## **Kurs** 
+
+2023 Bayesian statistics in R with brms and the tidyverse. Physalia.
+
+2022\. Generalised Additive Models in R. Physalia.

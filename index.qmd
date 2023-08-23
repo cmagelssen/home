@@ -1,0 +1,14 @@
+---
+title: "Christian Magelssen"
+
+---
+
+Jeg er en fulltids doktorgradsstipendiat ved Norges idrettshøgskole. I min doktorgrad studerer jeg hvordan intruksjoner og tilbakemeldinger påvirker valg og utførelse av handlinger, som f.eks. valg av strategier for å kjøre fort på flater i alpint. For å modellere denne type data benytter jeg algoritmer fra forsterkende læring (reinforcement learning), sammen med tradisjonelle multilevel models. Jeg er opptatt av reproduserbar og åpen forskning, der data og kode er åpent og tilgjengelig. 
+
+Du kan lese mer om meg og mitt arbeid på denne siden. Jeg er interessert i å komme i kontakt med potensielle arbeidsgivere innenfor læringspsykologi, dataanalyse, statistikk og markedsføring. 
+
+
+
+```{r}
+1 + 1
+```
